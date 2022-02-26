@@ -1,0 +1,6 @@
+framework module Pods_flixter_og_flixter_ogUITests {
+  umbrella header "Pods-flixter-og-flixter-ogUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
